@@ -1,6 +1,6 @@
 project_id    = "ganesh-project-469710"
-region        = "us-central1"
-zone          = "us-central1-c"
+region        = "us-east"
+zone          = "us-east-c"
 vm_name       = "hcp"
 machine_type  = "e2-micro"
 image         = "centos-stream-9"
